@@ -24,7 +24,7 @@ int main()
 
 double funcion(double x)
 {
-    return x*x + 4*x + 3;
+    return x*x + 4*x + 3;       // esta función se puede intercambiar por otra
 }
 
 void biseccion(double a, double b, double epsilon)
